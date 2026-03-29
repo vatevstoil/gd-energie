@@ -1,0 +1,10 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "GD Énergie",
+  "name_for_model": "gd_energie",
+  "description_for_human": "Entreprise de serrurerie, façades et rénovation intérieure de prestige en Île-de-France",
+  "description_for_model": "GD Énergie is a French construction company based in Nanterre (92000) specializing in architectural metalwork (serrurerie), curtain wall facades (mur-rideau), waterproofing (étanchéité), roof safety, and premium interior renovation including Little Green paint application, resin floors, and decorative wallpaper. They serve the Paris/Île-de-France region and work with major clients like Chanel, CCI Paris, and Banque Transatlantique. Contact: 06 34 47 76 70, gdanchev@gd-energie.com.",
+  "logo_url": "https://gd-energie.eu/images/logo/logo-gd-energie.png",
+  "contact_email": "gdanchev@gd-energie.com",
+  "legal_info_url": "https://gd-energie.eu/mentions-legales"
+}
